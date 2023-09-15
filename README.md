@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Onlinenotes
+This is the App that base on MERN stack. I use the rest Api for the authentication of the user. And after signup user can perform CRUD opration on their notes. The database Mogo DB to store data and the salt and pepper is  used in the user password for the security.
+>>>>>>> 2fe105066af9cee4efad9f2d0d5a6516937ca1d6
